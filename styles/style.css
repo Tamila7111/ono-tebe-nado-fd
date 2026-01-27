@@ -98,14 +98,14 @@ img {
     width: 100%;
     min-height: 757px;
     display: flex;
-    flex-direction: column;    
+    flex-direction: column;
 }
 
 .cover img { 
     position: absolute;
     width: 100%;
     height: 100%;
-    z-index: 0; 
+    z-index: 0;
 }
 
 .overlay {
@@ -119,7 +119,7 @@ img {
 
 .cover__title {
     position: relative;
-    z-index: 2; 
+    z-index: 2;
     margin-left: 50px;
     margin-right: 20px;
     margin-top: 160px;
@@ -131,7 +131,7 @@ img {
     color: #FFFFFF;
 }
 
-.aligned-text_left{
+.aligned-text_left {
     font-weight: 700;
     font-size: 100px;
     line-height: 115%;
@@ -139,7 +139,7 @@ img {
     text-transform: uppercase;
 }
 
-.aligned-text_center {  
+.aligned-text_center {
     font-weight: 700;
     font-size: 100px;
     line-height: 115%;
@@ -195,7 +195,7 @@ img {
     text-transform: uppercase;
 }
 
-.lots {  
+.lots {
     padding: 0;
     box-sizing: border-box;
     display: flex;
@@ -210,7 +210,7 @@ img {
     line-height: 100%;
     text-transform: uppercase;
     margin-left: 40px;
-    margin-bottom: 27px; 
+    margin-bottom: 27px;
 }
 
 .lots__card-list {
@@ -229,7 +229,7 @@ img {
    display: block;
    height: 100%;
    text-decoration: none;
-   color: inherit;    
+   color: inherit;
 }
 
 .card {
@@ -238,7 +238,6 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 100%;
 }
 
 .card_type_film {
@@ -249,7 +248,7 @@ img {
 .card_type_film img {
     position: absolute;
     z-index: 0;
-    height: 100%; 
+    height: 100%;
 }
 
 .card_type_book {
@@ -263,7 +262,7 @@ img {
   position: absolute;
     z-index: 0;
     width: 100%;
-    height: 100%;  
+    height: 100%;
 }
 
 .card_type_picture {
@@ -340,7 +339,7 @@ img {
     
 }
 
-.about__logo {   
+.about__logo {
     background-color: black;
     width: 240px;
     height: 240px;
@@ -350,7 +349,7 @@ img {
     justify-content: center;
     align-items: center;
     margin-right: 70px;
-    margin-bottom: 385px;   
+    margin-bottom: 385px;
 }
 
 .about__logo img {
@@ -397,7 +396,7 @@ img {
     display:flex;
     flex-direction:column;
     align-items: center;
-    justify-content: center;    
+    justify-content: center;
 }
 
 .footer__menu-list {
@@ -437,5 +436,5 @@ img {
 .footer__social-icon {
     list-style-type: none;
     width: 48px;
-    height: 48px;    
+    height: 48px;
 }
